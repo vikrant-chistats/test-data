@@ -1,0 +1,13 @@
+Id,Name,Extension,Type1,Type2,Path,DateCreated,DateModified,DateAccessed,HashMD5,Size,Deleted
+,linuxscanner.c,C,Media File,Audio,home/vikrant/Downloads/vikrant/Ardent/File_Scanner_copy/ardent-filescanner/src/,2020-01-21 15:09:58,2019-03-27 00:47:54,2020-01-21 15:11:15,1,12243,0
+,filesdb.c,C,Media File,Audio,home/vikrant/Downloads/vikrant/Ardent/File_Scanner_copy/ardent-filescanner/src/,2020-01-21 15:09:58,2019-03-27 00:47:54,2020-01-21 15:11:58,2,8856,0
+,main.c,C,Media File,Audio,home/vikrant/Downloads/vikrant/Ardent/File_Scanner_copy/ardent-filescanner/src/,2020-01-21 15:09:58,2019-03-27 00:47:54,2020-01-21 15:11:58,3,3052,0
+,linuxscanner.h,H,Media File,Video,home/vikrant/Downloads/vikrant/Ardent/File_Scanner_copy/ardent-filescanner/src/,2020-01-21 15:11:41,2020-01-21 15:11:41,2020-01-21 15:11:58,4,894,0
+,filesdb.h,H,Media File,Video,home/vikrant/Downloads/vikrant/Ardent/File_Scanner_copy/ardent-filescanner/src/,2020-01-21 15:09:58,2019-03-27 00:47:54,2020-01-21 15:11:58,5,2050,0
+,src,H,Archive,Audio,home/vikrant/Downloads/vikrant/Ardent/File_Scanner_copy/ardent-filescanner/,2020-01-21 15:11:41,2020-01-21 15:11:41,2020-01-21 15:15:33,6,4096,0
+,ardent_filescanner,H,Archive,Audio,home/vikrant/Downloads/vikrant/Ardent/File_Scanner_copy/ardent-filescanner/,2020-01-21 15:17:00,2020-01-21 15:17:00,2020-01-21 15:19:06,7,34936,0
+,abc,H,Archive,Audio,home/vikrant/Downloads/vikrant/Ardent/File_Scanner_copy/ardent-filescanner/,2020-01-21 15:27:48,2020-01-21 15:27:48,2020-01-21 15:27:48,8,12288,0
+,CMakeLists.txt,TXT,Document File,Unknown,home/vikrant/Downloads/vikrant/Ardent/File_Scanner_copy/ardent-filescanner/documents/,2020-01-21 15:17:49,2019-03-27 00:47:54,2020-01-21 15:20:31,9,314,0
+,README.md,MD,Data Source,Database,home/vikrant/Downloads/vikrant/Ardent/File_Scanner_copy/ardent-filescanner/documents/,2020-01-21 15:17:49,2019-03-27 00:47:54,2020-01-21 12:39:09,10,192,0
+,instruction to run scanner,MD,Archive,Audio,home/vikrant/Downloads/vikrant/Ardent/File_Scanner_copy/ardent-filescanner/documents/,2020-01-21 15:27:01,2020-01-21 15:27:01,2020-01-21 15:27:01,11,540,0
+,documents,MD,Archive,Audio,home/vikrant/Downloads/vikrant/Ardent/File_Scanner_copy/ardent-filescanner/,2020-01-21 15:27:01,2020-01-21 15:27:01,2020-01-21 15:25:20,12,4096,0
